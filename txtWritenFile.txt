@@ -1,0 +1,2 @@
+This Txt file is writen by Python Program
+This program writen by Afrozbasha
